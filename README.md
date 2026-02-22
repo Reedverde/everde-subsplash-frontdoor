@@ -1,5 +1,20 @@
 # eVerde Subsplash Front Door
 
+## Strategic Origin Notes
+
+This project strategy was defined during initial architectural planning conversations (Feb 2026).
+
+Core themes:
+- Independent Subsplash Systems Architecture category
+- Authority positioning via community gravity
+- AEO / GEO search ownership
+- Ambassador compliance alignment
+- Segmented offer structure (Architecture, Fractional, Support)
+
+Full transcript stored offline. - https://chatgpt.com/g/g-p-68a087c15a888191a0a8
+
+----------------------------
+
 ## Project Overview
 This project establishes Reed Verdesoto as the independent authority in Subsplash Systems Architecture.
 
