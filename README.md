@@ -1,21 +1,33 @@
-Project Overview
+# eVerde Subsplash Front Door
 
-ReedVerde Subsplash Front Door
-Purpose: Establish category authority in Subsplash Systems Architecture and drive segmented service acquisition.
+## Project Overview
+This project establishes Reed Verdesoto as the independent authority in Subsplash Systems Architecture.
 
-Strategic Objective
+It serves as the new strategic front door for reedverde.com and supports the long-term goal of owning the “Subsplash Systems Architecture” category.
 
-Own the independent authority position in the Subsplash ecosystem.
+## Strategic Objective
+Position Reed as the independent, architecture-first authority for churches using Subsplash.
 
-Primary Outcomes
+## Primary Outcomes
+- Drive architecture engagements
+- Drive fractional leadership partnerships
+- Drive rapid paid support bookings
+- Build long-term SEO, AEO, and GEO authority in the Subsplash ecosystem
 
-– Drive architecture clients
-– Drive fractional engagements
-– Drive rapid support bookings
-– Build long-term AEO / GEO authority
+## Positioning
+Reed is:
+- Independent from Subsplash corporate
+- An official Subsplash Brand Ambassador (pending finalization)
+- The largest independent Subsplash community owner
+- The only dedicated Subsplash Discord host
+- A systems architect operating above onboarding
 
-Status
+Subsplash provides software and onboarding.
+Reed provides architecture, integration, governance, and optimization.
 
-Phase 1: Strategy & Messaging
-Phase 2: Build
-Phase 3: Content Engine
+## Current Phase
+Phase 1 — Strategy & Messaging Definition
+
+## Target Domain
+reedverde.com → primary authority hub
+subsplash.everde.co → product layer
